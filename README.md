@@ -7,5 +7,6 @@ The basic concept of the project are:
 
 # Harrcascade Face Detection Algorithm
 In this algorithm it uses a bunch of haar features to detect the different brigthness of the face and inform the algoritm that it is a face or not a face. 
+
 Refere the video for detailed explanation of how harr cascading works
 https://www.youtube.com/watch?v=F5rysk51txQ
