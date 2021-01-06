@@ -9,4 +9,5 @@ The basic concept of the project are:
 In this algorithm it uses a bunch of haar features to detect the different brigthness of the face and inform the algoritm that it is a face or not a face. 
 
 Refere the video for detailed explanation of how harr cascading works
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F5rysk51txQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/F5rysk51txQ
