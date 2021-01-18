@@ -29,6 +29,7 @@ while True:
     # Q key to quit
     if key == 81 or key == 113:
         break
-#Close the video stream
+# Close the video stream
 webcam.release()
+# Check the completion of the code
 print("code completed")
