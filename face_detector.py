@@ -22,7 +22,7 @@ while True:
     for (x, y, w, h) in face_coordinate:
         # Draw a rectangle using the face_coordinate
         cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
-    # Diaplaying the frame
+    # Displaying the frame
     cv2.imshow('Face-detector', frame)
     # Changes the frame every 1millisecond
     key = cv2.waitKey(1)
